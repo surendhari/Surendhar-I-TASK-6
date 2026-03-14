@@ -1,5 +1,3 @@
-// Console Based Calculator with Extra Features
-
 function calculator() {
 
     console.log("------ Console Calculator ------");
